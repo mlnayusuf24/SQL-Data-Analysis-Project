@@ -10,3 +10,10 @@ PostgreSQL project in Jupyter Notebook for analyzing video game critic and user 
 - What is the years that dropped of the critics' favorite list?
 - What is the years that video game players loved?
 - etc
+
+## [Project - Analyze International Debt Statistics](https://github.com/mlnayusuf24/SQL-Data-Analysis-Project/tree/main/Project%20-%20Analyze%20International%20Debt%20Statistics)
+PostgreSQL project in Jupyter Notebook for analyzing international debt data collected by The World Bank
+- What is the total amount of debt that is owed by the countries listed in the dataset?
+- Which country owns the maximum amount of debt and what does that amount look like?
+- What is the average amount of debt owed by countries across different debt indicators?
+- etc
