@@ -16,7 +16,7 @@ PostgreSQL project in Jupyter Notebook for analyzing the data published by the U
 - What are the top-ranked female names since 1920?
 - Which name has been number one for the largest number of years for Male?
 
-##[Project - Analyzing NYC Public School Test Result Scores](https://github.com/mlnayusuf24/SQL-Data-Analysis-Project/tree/main/Project%20-%20Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
+## [Project - Analyzing NYC Public School Test Result Scores](https://github.com/mlnayusuf24/SQL-Data-Analysis-Project/tree/main/Project%20-%20Analyzing%20NYC%20Public%20School%20Test%20Result%20Scores)
 PostgreSQL project in Jupyter Notebook for analyzing the performance of schools is important for a variety of stakeholders (SQL Guided Project by DataCamp).
 - What is the best school for math?
 - What is the top best 10 school by score across reading, writing, and math?
