@@ -21,3 +21,6 @@ The data used in this project is provided by The World Bank. It contains both na
 - The highest amount of principal repayments
 - The most common debt indicator
 - Other viable debt issues and conclusion
+
+## Acknowledgements
+- [Analyze International Debt Statistics](https://www.datacamp.com/projects/754)
