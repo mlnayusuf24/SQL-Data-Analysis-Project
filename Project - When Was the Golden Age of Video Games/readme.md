@@ -13,5 +13,3 @@ In this project, you'll analyze video game critic and user scores as well as sal
 - Years video game players loved
 - Years that both players and critics loved
 - Sales in the best video game years
-
-DataCamp Course: [When Was the Golden Age of Video Games?](https://app.datacamp.com/learn/projects/1413)
