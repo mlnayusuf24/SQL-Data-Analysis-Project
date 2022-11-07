@@ -16,3 +16,6 @@ In this notebook, we play the role of a product analyst for an online sports clo
 - Reviews by month and brand
 - Footwear product performance
 - Clothing product performance
+
+## Acknowledgements
+- [Optimizing Online Sports Retail Revenue](https://www.datacamp.com/projects/1442)
