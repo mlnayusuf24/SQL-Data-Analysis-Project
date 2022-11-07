@@ -15,3 +15,6 @@ We'll be working with data provided by the United States Social Security Adminis
 - Many males with the same name
 - Top male names over the years
 - The most years at number one
+
+## Acknowledgements
+- [Analyzing American Baby Name Trends](https://www.datacamp.com/projects/1441)
